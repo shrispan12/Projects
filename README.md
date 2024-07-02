@@ -1,4 +1,4 @@
-STICKY NOTES SYSTEM
+This is a STICKY NOTES SYSTEM which helps in managing your daily tasks . Features are added as per user requirements:
 Add notes.
 Change color you like.
 Edit your notes.
